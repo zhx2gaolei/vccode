@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "H:\\CodeProjects\\PythonProjects\\opms\\.venv\\Scripts\\python.exe",
+    "python.formatting.provider": "yapf",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": ["--disable=C,broad-except,unused-variable",]
+    // -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
+}
